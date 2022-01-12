@@ -5,3 +5,5 @@ So I am going to understand the dataset and then apply ML algorithms to predict/
 This seems challenging and not easy as the other prediction systems that I have built. 
 Lets begin. May the force be with me! 
 
+The dataset has NaN that is missing data
+The model.fit wont run
