@@ -15,3 +15,4 @@ Prediction/Detection Systems that I plan to code:
 2. Brain Tumour Detection Systems
 3. Autism Spectrum Detection Systems
 4. Alzheimers Disorder Detection Systems 
+5. Medical Image Analysis 
